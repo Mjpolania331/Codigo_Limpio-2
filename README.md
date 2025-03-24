@@ -1,8 +1,8 @@
-Gestor de Notas
+#Gestor de Notas
 Nuestro proyecto es un gestor de notas que permite a los usuarios crear, editar, eliminar y gestionar sus notas. También incluye funcionalidades para crear cuentas de usuario y gestionar contraseñas.
 
-Cómo Ejecutar el Proyecto
-Profe en la carpeta App.py Ejecuta el archivo "main.py" para iniciar el gestor de notas.
+#Cómo Ejecutar el Proyecto
+Profe en la carpeta "App.py" y Ejecutas el archivo "main.py" para iniciar el gestor de notas.
 
 python main.py
 
