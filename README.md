@@ -10,4 +10,4 @@ python main.py
 Profe estan en el archvio de "Casos de Prueba Funcionales.xlsx" y en donde dice "View Raw"
 
 #Visualizar consola
-Profe esta en el archivo "Consola.odt" y es un documento de word donde se encuentran las imagenes
+Profe esta en el archivo "Consola.odt" y en donde dice "View Raw" es un documento de word donde se encuentran las imagenes
